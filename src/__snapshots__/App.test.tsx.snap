@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<div>
+  <div>
+    <label>
+      <input
+        type="number"
+        value=""
+      />
+       
+      Celsius
+    </label>
+     
+    =
+     
+    <label>
+      <input
+        type="number"
+        value=""
+      />
+       
+      Fahrenheit
+    </label>
+  </div>
+</div>
+`;
