@@ -2,7 +2,9 @@
 
 exports[`renders learn react link 1`] = `
 <div>
-  <div>
+  <main
+    class="min-h-screen p-24"
+  >
     <label>
       <input
         type="number"
@@ -22,6 +24,6 @@ exports[`renders learn react link 1`] = `
        
       Fahrenheit
     </label>
-  </div>
+  </main>
 </div>
 `;

@@ -1,3 +1,5 @@
+'use client';
+
 import { ChangeEvent, FunctionComponent, useState } from 'react';
 
 export const TemperatureConverter: FunctionComponent = () => {
