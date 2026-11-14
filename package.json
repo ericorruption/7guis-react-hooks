@@ -15,12 +15,12 @@
     "@types/react-dom": "19.3.0",
     "autoprefixer": "10.6.2",
     "eslint": "10.14.0",
-    "eslint-config-next": "16.4.5",
-    "next": "16.4.5",
+    "eslint-config-next": "16.4.6",
+    "next": "16.4.6",
     "postcss": "8.5.32",
     "react": "19.3.1",
     "react-dom": "19.3.1",
-    "tailwindcss": "4.3.4",
+    "tailwindcss": "4.3.5",
     "typescript": "7.0.2"
   },
   "prettier": {
